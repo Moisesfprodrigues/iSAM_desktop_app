@@ -84,5 +84,24 @@ namespace ISAM_batch
             this.Enabled = true;
         }
 
+        /// <summary>
+        ///  verifica e copia o novo ficheiro para diretoria de script
+        /// </summary>
+      
+        private void button3_Click(object sender, EventArgs e)
+        {
+            string f = textBox1.Text;
+            if (System.IO.File.Exists(@"C:\isam_files\pautas_output\pauta.xml") == true)
+            {
+                System.IO.File.Delete(@"C:\isam_files\pautas_output\pauta.xml");
+                System.IO.File.Copy(f, @"C:\isam_files\pautas_output\pauta.xml");
+            }
+            else
+            {
+                System.IO.File.Copy(f, @"C:\isam_files\pautas_output\pauta.xml");
+            }
+            
+        }
+
     }
 }
