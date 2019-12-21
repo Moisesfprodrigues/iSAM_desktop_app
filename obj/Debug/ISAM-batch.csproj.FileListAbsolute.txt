@@ -8,3 +8,22 @@ C:\Users\MRPC\Desktop\ISAM-batch\ISAM-batch\obj\Debug\ISAM-batch.csproj.CoreComp
 C:\Users\MRPC\Desktop\ISAM-batch\ISAM-batch\obj\Debug\ISAM-batch.exe
 C:\Users\MRPC\Desktop\ISAM-batch\ISAM-batch\obj\Debug\ISAM-batch.pdb
 C:\Users\MRPC\Desktop\ISAM-batch\ISAM-batch\obj\Debug\ISAM-batch.csprojAssemblyReference.cache
+C:\Users\tecmo\OneDrive\Área de Trabalho\UC_PROJETO_FINAL_VERSION2\app_batch\ISAM-batch\ISAM-batch\obj\Debug\ISAM_batch.Form1.resources
+C:\Users\tecmo\OneDrive\Área de Trabalho\UC_PROJETO_FINAL_VERSION2\app_batch\ISAM-batch\ISAM-batch\obj\Debug\ISAM_batch.Properties.Resources.resources
+C:\Users\tecmo\OneDrive\Área de Trabalho\UC_PROJETO_FINAL_VERSION2\app_batch\ISAM-batch\ISAM-batch\obj\Debug\ISAM-batch.csproj.GenerateResource.cache
+C:\Users\tecmo\OneDrive\Área de Trabalho\UC_PROJETO_FINAL_VERSION2\app_batch\ISAM-batch\ISAM-batch\obj\Debug\ISAM-batch.csproj.CoreCompileInputs.cache
+C:\Users\tecmo\OneDrive\Área de Trabalho\UC_PROJETO_FINAL_VERSION2\app_batch\ISAM-batch\ISAM-batch\obj\Debug\ISAM-batch.exe
+C:\Users\tecmo\OneDrive\Área de Trabalho\UC_PROJETO_FINAL_VERSION2\app_batch\ISAM-batch\ISAM-batch\obj\Debug\ISAM-batch.pdb
+C:\Users\tecmo\OneDrive\Área de Trabalho\UC_PROJETO_FINAL_VERSION2\app_batch\ISAM-batch\ISAM-batch\bin\Debug\ISAM-batch.exe.config
+C:\Users\tecmo\OneDrive\Área de Trabalho\UC_PROJETO_FINAL_VERSION2\app_batch\ISAM-batch\ISAM-batch\bin\Debug\ISAM-batch.exe
+C:\Users\tecmo\OneDrive\Área de Trabalho\UC_PROJETO_FINAL_VERSION2\app_batch\ISAM-batch\ISAM-batch\bin\Debug\ISAM-batch.pdb
+C:\Users\tecmo\OneDrive\Área de Trabalho\UC_PROJETO_FINAL_VERSION3\app_batch\ISAM-batch\ISAM-batch\bin\Debug\ISAM-batch.exe.config
+C:\Users\tecmo\OneDrive\Área de Trabalho\UC_PROJETO_FINAL_VERSION3\app_batch\ISAM-batch\ISAM-batch\bin\Debug\ISAM-batch.exe
+C:\Users\tecmo\OneDrive\Área de Trabalho\UC_PROJETO_FINAL_VERSION3\app_batch\ISAM-batch\ISAM-batch\bin\Debug\ISAM-batch.pdb
+C:\Users\tecmo\OneDrive\Área de Trabalho\UC_PROJETO_FINAL_VERSION3\app_batch\ISAM-batch\ISAM-batch\obj\Debug\ISAM-batch.csprojAssemblyReference.cache
+C:\Users\tecmo\OneDrive\Área de Trabalho\UC_PROJETO_FINAL_VERSION3\app_batch\ISAM-batch\ISAM-batch\obj\Debug\ISAM_batch.Form1.resources
+C:\Users\tecmo\OneDrive\Área de Trabalho\UC_PROJETO_FINAL_VERSION3\app_batch\ISAM-batch\ISAM-batch\obj\Debug\ISAM_batch.Properties.Resources.resources
+C:\Users\tecmo\OneDrive\Área de Trabalho\UC_PROJETO_FINAL_VERSION3\app_batch\ISAM-batch\ISAM-batch\obj\Debug\ISAM-batch.csproj.GenerateResource.cache
+C:\Users\tecmo\OneDrive\Área de Trabalho\UC_PROJETO_FINAL_VERSION3\app_batch\ISAM-batch\ISAM-batch\obj\Debug\ISAM-batch.csproj.CoreCompileInputs.cache
+C:\Users\tecmo\OneDrive\Área de Trabalho\UC_PROJETO_FINAL_VERSION3\app_batch\ISAM-batch\ISAM-batch\obj\Debug\ISAM-batch.exe
+C:\Users\tecmo\OneDrive\Área de Trabalho\UC_PROJETO_FINAL_VERSION3\app_batch\ISAM-batch\ISAM-batch\obj\Debug\ISAM-batch.pdb
