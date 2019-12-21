@@ -1,0 +1,10 @@
+C:\Users\MRPC\Desktop\ISAM-batch\ISAM-batch\bin\Debug\ISAM-batch.exe.config
+C:\Users\MRPC\Desktop\ISAM-batch\ISAM-batch\bin\Debug\ISAM-batch.exe
+C:\Users\MRPC\Desktop\ISAM-batch\ISAM-batch\bin\Debug\ISAM-batch.pdb
+C:\Users\MRPC\Desktop\ISAM-batch\ISAM-batch\obj\Debug\ISAM_batch.Form1.resources
+C:\Users\MRPC\Desktop\ISAM-batch\ISAM-batch\obj\Debug\ISAM_batch.Properties.Resources.resources
+C:\Users\MRPC\Desktop\ISAM-batch\ISAM-batch\obj\Debug\ISAM-batch.csproj.GenerateResource.cache
+C:\Users\MRPC\Desktop\ISAM-batch\ISAM-batch\obj\Debug\ISAM-batch.csproj.CoreCompileInputs.cache
+C:\Users\MRPC\Desktop\ISAM-batch\ISAM-batch\obj\Debug\ISAM-batch.exe
+C:\Users\MRPC\Desktop\ISAM-batch\ISAM-batch\obj\Debug\ISAM-batch.pdb
+C:\Users\MRPC\Desktop\ISAM-batch\ISAM-batch\obj\Debug\ISAM-batch.csprojAssemblyReference.cache
